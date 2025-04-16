@@ -17,3 +17,7 @@ ReadWritePaths=/home/web/
 ```
 
 and then restart the services via  `systemctl restart lighttpd; systemctl restart php-fpm.service`
+
+# More info
+
+For more info, check [here](https://wiki.archlinux.org/title/Systemd/Sandboxing)

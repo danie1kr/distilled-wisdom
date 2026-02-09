@@ -15,26 +15,27 @@ Make sure to read the wiki first!
 ![parts](res/parts.JPG)
 
 ## StepperOnline
-Servo: NEMA 23 Integrated Easy Servo Motor 130W 3000rpm 0.45Nm 20-50VDC Servo Motor - Short Shaft (iSV57T-130S); also include the USB 2.0 to Serial RS232 Adapter with 1m Cable Converter in your order to be prepared
-Power:LRS-350-36 MEANWELL 350W 36VDC 9.7A 115/230VAC Enclosed Switching Power Supply
+* Servo: NEMA 23 Integrated Easy Servo Motor 130W 3000rpm 0.45Nm 20-50VDC Servo Motor - Short Shaft (iSV57T-130S); also include the USB 2.0 to Serial RS232 Adapter with 1m Cable Converter in your order to be prepared
+* Power:LRS-350-36 MEANWELL 350W 36VDC 9.7A 115/230VAC Enclosed Switching Power Supply
 
 ## Discord group orders
 From time to time, people ask to join group orders to keep everything affordable. Don´t hesitate to ask there! I joined a batch order for the boards and mechanics.
 
-Board: [Gilphilbert v2.1](https://github.com/gilphilbert/DIY-Sim-Racing-FFB-Pedal-PCBs)
-Mechanics: [Full Carbon Fiber & Aluminium set](https://discord.com/channels/1113129142142120159/1326376712455323658), also see their [git](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals).
+* Board: [Gilphilbert v2.1](https://github.com/gilphilbert/DIY-Sim-Racing-FFB-Pedal-PCBs)
+* Mechanics: [Full Carbon Fiber & Aluminium set](https://discord.com/channels/1113129142142120159/1326376712455323658), also see their [git](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals).
 
 ## AliExpress
 Load Cell: DYLY-107, 200kg
 
 ## JLC
-Rails: JKK60-5-P-150-A1-F4-M
-Additionals: BEUP-K-D8 (for mounting the pedal loadcell rail connectors, no longer relevant with DIY-Carbon-Aluminium-Active-Pedals v2)
+* Rails: JKK60-5-P-150-A1-F4-M
+* Additionals: BEUP-K-D8 (for mounting the pedal loadcell rail connectors, no longer relevant with DIY-Carbon-Aluminium-Active-Pedals v2)
+
 Also recommend to add all screws, nuts, shims, and wheelbearings to your order here! Check the [BOM](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/wiki/BOM) of the Full Carbon Fiber & Aluminium if you go with them.
 
 ## Amazon
-Antenna: [2.4GHz 5GHz 5.8GHz Dual Band WiFi RP-SMA Antenna + 2 x 21 cm U.FL/IPEX](https://www.amazon.de/dp/B09K41BDYL) (U\.FL seems to be IPEX-1)
-Wireless Bridge: [Waveshare ESP32-S3-DEV-KIT-N16R8](https://www.amazon.de/dp/B0DLWGVXCS)
+* Antenna: [2.4GHz 5GHz 5.8GHz Dual Band WiFi RP-SMA Antenna + 2 x 21 cm U.FL/IPEX](https://www.amazon.de/dp/B09K41BDYL) (U\.FL seems to be IPEX-1)
+* Wireless Bridge: [Waveshare ESP32-S3-DEV-KIT-N16R8](https://www.amazon.de/dp/B0DLWGVXCS)
 
 I had a hard time finding the correct serial connectors for the servo. In the end, I went with [3P 2EDGRK 2.54 mm Weld-Free Cable Clamp, Pluggable Quick Male and Female Connector for 26-18AWG](https://www.amazon.de/dp/B0FB8TRYFM), removing the little guides which were misaligned.
 

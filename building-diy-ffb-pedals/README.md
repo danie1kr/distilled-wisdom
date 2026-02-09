@@ -5,15 +5,13 @@ The main contact points for the project are their [git](https://github.com/ChrGr
 Make sure to read the wiki first!
 
 # Content
-
-1) [Gathering all the parts](#gathering)
-1) [Building the pedals](#building)
+1) [Gathering all the parts](#gathering-all-the-parts)
+1) [Building the pedals](#building-the-pedals)
 1) [Wiring](#wiring)
 1) [Setup](#setup)
 1) [Enjoy](#enjoy)
 
 # Gathering all the parts
-
 ![parts](res/parts.JPG)
 
 ## StepperOnline
@@ -41,7 +39,6 @@ Wireless Bridge: [Waveshare ESP32-S3-DEV-KIT-N16R8](https://www.amazon.de/dp/B0D
 I had a hard time finding the correct serial connectors for the servo. In the end, I went with [3P 2EDGRK 2.54 mm Weld-Free Cable Clamp, Pluggable Quick Male and Female Connector for 26-18AWG](https://www.amazon.de/dp/B0FB8TRYFM), removing the little guides which were misaligned.
 
 # Building the pedals
-
 Assembling of the pedals is straight forward. Be sure to properly tighten the servo-rail connectors and have the 3D printed parts ready when you need them.
 
 I mounted the pedals on 30x30 alu profiles with the power supply below and the boards mounted between the pedals.
@@ -55,7 +52,6 @@ The gilphilbert board features power in and power out, so connecting a second pe
 ![wiring gilphilbert board to servo](res/connections.png "wiring gilphilbert board to servo")
 
 # Setup
-
 Initially, I wanted to have USB connection to the pedal control boards as I did not want to have even more wireless stuff around. But after issues (apprupt disconnect from the SimHub Bridge Arduino), I resorted to the wireless bridge as recommended when asking in the Discord.
 
 Here are the pedal kinematics for set up in the SimHub plugin to give accurate force calculations. 
